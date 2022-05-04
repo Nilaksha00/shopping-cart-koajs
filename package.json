@@ -1,0 +1,18 @@
+{
+  "name": "shopping-cart-koa-backend",
+  "version": "1.0.0",
+  "description": "shopping cart for lab assessment in AF",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Nilaksha Perera",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^10.1.1",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "nodemon": "^2.0.16"
+  }
+}
