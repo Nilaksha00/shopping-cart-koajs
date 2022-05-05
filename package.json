@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "Nilaksha Perera",
+  "author": "IT20166106",
   "license": "ISC",
   "dependencies": {
     "@koa/router": "^10.1.1",
